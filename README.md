@@ -19,4 +19,4 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@tertit133-26A5E4?logo=telegram&logoColor=white)](https://t.me/tertit133)
 [![Email](https://img.shields.io/badge/Email-tertit133@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:tertit133@gmail.com)
-[![Сайт](https://img.shields.io/badge/Сайт-tertit133.github.io-7c9cff)](https://tertit133.github.io)
+[![Сайт](https://img.shields.io/badge/%D0%A1%D0%B0%D0%B9%D1%82-tertit133.github.io-7c9cff)](https://tertit133.github.io)
