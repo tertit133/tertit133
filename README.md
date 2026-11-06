@@ -5,7 +5,7 @@
 🎓 Студент ППК им. Славянова, «Компьютерные системы и комплексы» (выпуск 2027) · 🔧 обслуживаю 140+ игровых автоматов, ремонт электроники на компонентном уровне · 🌍 English B2
 
 🌐 **Сайт-портфолио:** [tertit133.github.io](https://tertit133.github.io)
-📄 **Резюме:** [PDF](https://tertit133.github.io/resume.pdf)
+📄 **Резюме (PDF):** [на русском](https://tertit133.github.io/resume.pdf) · [in English](https://tertit133.github.io/resume-en.pdf)
 
 ### 🛠 Стек
 
